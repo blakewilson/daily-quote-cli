@@ -1,0 +1,19 @@
+{
+  "name": "daily-quote-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "bin": {
+    "daily-quote": "./index.mjs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "isomorphic-fetch": "^3.0.0",
+    "yargs": "^17.6.2"
+  }
+}
